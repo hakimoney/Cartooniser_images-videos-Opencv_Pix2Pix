@@ -1,0 +1,11 @@
+data/
+datasets/
+checkpoints/
+models/
+runs/
+weights/
+*.zip
+*.pt
+*.onnx
+*.mp4
+*.tif
